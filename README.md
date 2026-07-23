@@ -1,4 +1,4 @@
-# Portfolio · 이준호 (JUNHO LEE) — v3 GitHub Pages Edition
+# Portfolio · 이준호 (JUNHO LEE)
 
 빅스데이터 부사장 / COO — 개인 포트폴리오 사이트.
 **검정(#0a0a0a) / 흰색(#ffffff) 만 사용한 미니멀 모노톤 단일 HTML 페이지.**
@@ -8,7 +8,7 @@
 
 ## 🚀 GitHub Pages 5분 배포 가이드
 
-준호님은 이미 `LEE-JUN-HO` GitHub 계정이 있으시니, 사용자명 페이지(`https://lee-jun-ho.github.io`)에 자동 배포됩니다.
+사용자명 페이지(`https://lee-jun-ho.github.io`)에 자동 배포
 
 ### 1단계 — 새 리포 만들기
 - 사이트에서 **New repository** 클릭
